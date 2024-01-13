@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyOsmdroidMapApp</string>
+    <string name="search_Btn">Suchen</string>
+    <string name="search_Edit">Suche...</string>
+</resources>
